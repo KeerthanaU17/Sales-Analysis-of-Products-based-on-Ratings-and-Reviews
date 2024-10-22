@@ -6,6 +6,8 @@
 # Overview: 
  This Tableau project aims to visualize and analyze the sales performance of various products, incorporating customer ratings and reviews to identify trends and insights that can drive strategic decisions. By leveraging data from multiple sources, the project provides a holistic view of how product quality and customer feedback influence sales metrics.
 
+[View my Tableau Dashboard]([https://public.tableau.com/app/profile/keerthana.u3938/viz/ProductsReviewandRating/Dashboard1?publish=yes])
+
 # Objectives:
 
 * To analyze sales data across different products, categories, and time periods.
